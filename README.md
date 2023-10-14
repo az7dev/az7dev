@@ -12,10 +12,9 @@
 
 I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing a Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping  and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
 
-- 📭 [Reach out]( # hi-there-Alsala Ahmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
+- 📭 [Reach out](#hi-there-AlsalaAhmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
 - 💬 Talk to me about if Lock Ness monster are real, can cats be any more cuter, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
@@ -48,33 +47,3 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 </details>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/az7dev/az7dev/main?label=Last%20updated&style=flat)](https://github.com/az7dev/az7dev/commits)
-
-<!--For future reference 
-<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!)
-
-
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=samujjwaal&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal" width="350"/>
-</a>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal)
--->
