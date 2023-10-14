@@ -1,4 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=az7dev&data=followers,repositories,stars,commits)](https://github.com/Az7dev/github-widgetbox)
 ## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here 
 ## Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Indian Institute Of Technology Madras(IIT MADRAS)
@@ -35,9 +34,9 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
   
   <a href="https://alsala-ahmed.com/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/think.png" align="right" height="150" /></a>
   
-[![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
-[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daftdey/ "Follow on Instagram")
+[![DEV Badge](https://img.shields.io/badge/-Ahmed-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/az7dev)
+[![StackOverflow Badge](https://img.shields.io/badge/-Stack_overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/22741840/al-sala-ahmed)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saale_ahmed/ "Follow on Instagram")
 [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
@@ -46,7 +45,7 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 
 </details>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/az7dev/az7dev/master?label=Last%20updated&style=flat)](https://github.com/az7dev/az7dev/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/az7dev/az7dev/main?label=Last%20updated&style=flat)](https://github.com/az7dev/az7dev/commits)
 
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
