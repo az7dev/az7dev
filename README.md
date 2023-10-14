@@ -42,7 +42,9 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
 ----
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=az7dev.az7dev)
+[![HitCount](http://hits.dwyl.com/az7dev/az7dev.svg)](http://hits.dwyl.com/az7dev/az7dev)
+![Repo Views](https://views.whatilearened.today/views/github/az7dev/az7dev.svg?cache=remove)
 </details>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/az7dev/az7dev/main?label=Last%20updated&style=flat)](https://github.com/az7dev/az7dev/commits)
@@ -61,9 +63,7 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samujjwaal.samujjwaal)
-[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
-![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
+
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
 
