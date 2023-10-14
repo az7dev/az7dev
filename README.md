@@ -1,3 +1,4 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=az7dev&data=followers,repositories,stars,commits)](https://github.com/Az7dev/github-widgetbox)
 ## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here 
 ## Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Indian Institute Of Technology Madras(IIT MADRAS)
@@ -8,7 +9,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Alsala-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AlsalaConnect "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-meta-0078FF?style=flat&logo=Meta&logoColor=white)](https://www.facebook.com/profile.php?id=100083646415001 "Connect on Facebook")
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=az7dev&data=followers,repositories,stars,commits)](https://github.com/Az7dev/github-widgetbox)
 <a href="https://alsala-ahmed.com/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing a Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping  and creating immersive realities :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
