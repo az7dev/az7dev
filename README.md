@@ -10,7 +10,7 @@
 
 <a href="https://alsala-ahmed.com/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing a Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping  and creating immersive realities :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
+I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing a Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping  and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
 
 - 📭 [Reach out]( # hi-there-Alsala Ahmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
 - 💬 Talk to me about if Lock Ness monster are real, can cats be any more cuter, and everything in between
