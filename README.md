@@ -36,14 +36,15 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 [![DEV Badge](https://img.shields.io/badge/-Ahmed-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/az7dev)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack_overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/22741840/al-sala-ahmed)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saale_ahmed/ "Follow on Instagram")
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
-----
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=az7dev.az7dev)
 [![HitCount](http://hits.dwyl.com/az7dev/az7dev.svg)](http://hits.dwyl.com/az7dev/az7dev)
 ![Repo Views](https://views.whatilearened.today/views/github/az7dev/az7dev.svg?cache=remove)
 </details>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/az7dev/az7dev/main?label=Last%20updated&style=flat)](https://github.com/az7dev/az7dev/commits)
+<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
+[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
+!>----
