@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Alsala-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AlsalaConnect "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-meta-0078FF?style=flat&logo=Meta&logoColor=white)](https://www.facebook.com/profile.php?id=100083646415001 "Connect on Facebook")
 
-<a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/IMG_0557.jpeg" align="right" height="275" /></a>
+<a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/7ADE1048-631B-47C8-9422-6AD42D4B7CFB.png" align="right" height="275" /></a>
 
 I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
 
@@ -20,7 +20,7 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://alsala-ahmed.com"><img src="https://github.com/az7dev/az7dev/blob/main/IMG_0556.jpeg" align="right" height="200" /></a>
+  <a href="https://alsala-ahmed.com"><img src="https://github.com/az7dev/az7dev/blob/main/2CEF1CAC-2D20-4B4C-A7FC-3E715D7FD08B.png" align="right" height="200" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=az7dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/az7dev)
 
@@ -32,7 +32,7 @@ I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madr
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
   
-  <a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/IMG_0558.jpeg" align="right" height="150" /></a>
+  <a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/0096D43C-DB88-454D-A0C2-F42AC4D2FA97.png" align="right" height="150" /></a>
   
 [![DEV Badge](https://img.shields.io/badge/-Ahmed-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/az7dev)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack_overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/22741840/al-sala-ahmed)
