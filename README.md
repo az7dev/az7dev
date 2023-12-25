@@ -5,7 +5,7 @@
 🚀 XR Innovator | 🤖 AI Enthusiast | 🌐 Tech Evangelist | 🌟 Future Shaper | Web 4.0 Advocate | Spatial Web
 
 [![Gmail Badge](https://img.shields.io/badge/-alsala.connect@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alsala.connect@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Alsala%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alsala-ahmed/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Alsala%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-sala-ahmed/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@Alsala-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AlsalaConnect "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-meta-0078FF?style=flat&logo=Meta&logoColor=white)](https://www.facebook.com/profile.php?id=100083646415001 "Connect on Facebook")
 
