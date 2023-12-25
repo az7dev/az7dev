@@ -11,7 +11,7 @@
 
 <a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/7ADE1048-631B-47C8-9422-6AD42D4B7CFB.png" align="right" height="275" /></a>
 
-I am a 2nd-year Under-Graduate Student at Indian Institute of technology at Madras, pursuing Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
+I am a sophomore at Indian Institute of technology at Madras, pursuing Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
 
 - 📭 [Reach out](#hi-there-AlsalaAhmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
 - 💬 Talk to me about wgpu,cybersecurity,software dev,game dev,graphic programming,nerf,gaussian splatting and everything in between.
