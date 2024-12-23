@@ -14,7 +14,7 @@
 
 I am a pre-final year graduate at Indian Institute of technology at Madras, pursuing Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,geospatial,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
 
-- For people Looking to hire me see my leetcode(Python + Javascript skills) in the Leetcode repo.[https://github.com/az7dev/leetcode](url)
+- For people Looking to hire me see my leetcode(Python + Javascript skills) in the Leetcode repo.[https://github.com/az7dev/leetcode-hackerank](url)
 - 📭 [Reach out](#hi-there-AlsalaAhmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
 - 💬 Talk to me about wgpu,cybersecurity,software dev,game dev,graphic programming,nerf,gaussian splatting and everything in between.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
