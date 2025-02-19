@@ -3,7 +3,7 @@
 ## Ex Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Indian Institute Of Technology Madras(IIT MADRAS)
 ## Building the Global Indian XR Corridor 
-🚀 Fullstack XR/ML/AI Engineer/Researcher | 🤖 Senior AI/ML Engineer | Haptics Engineer | 🌐 Tech Evangelist | 🌟 XR Innovator | Web 4.0 Advocate | Spatial Web
+🚀 Fullstack XR/ML/AI Engineer/Researcher | 🤖 Senior AI/ML Engineer | **Haptics Engineer** | 🌐 Tech Evangelist | 🌟 XR Innovator | Web 4.0 Advocate | Spatial Web
 
 [![Gmail Badge](https://img.shields.io/badge/-alsala.connect@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alsala.connect@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alsala%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-sala-ahmed/ "Connect on LinkedIn")
