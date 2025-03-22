@@ -1,5 +1,5 @@
 ## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here 
-## Building Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher
+## EX - Founding Engineer @ Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher
 ## Ex Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Indian Institute Of Technology Madras(IIT MADRAS)
 ## Building the Global Indian XR Corridor 
