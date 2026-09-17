@@ -1,6 +1,6 @@
 ## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here
 ## Silicon Valley Engineer, Self-taught programmer and serial Entrepreneur.I was raised by a bunch of hackers, backed by some of worlds best visionary investors.
-## Currently Systems and Technology Architect | Aldenham Education Group | Riaydh,Saudi Arabia
+## Currently Systems and Technology Architect | Aldenham Education Group | Riyadh,Saudi Arabia
 ## Ex -Founding Engineer @ Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher | Funded by early investors of SpaceX ( yes, the same people who funded Elon :)) )
 ## Ex Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Graduated from Indian Institute Of Technology Madras(IIT MADRAS)
