@@ -1,10 +1,10 @@
 ## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here
 ## Silicon Valley Engineer, Self-taught programmer and serial Entrepreneur.I was raised by a bunch of hackers, backed by some of worlds best visionary investors.
-## Systems and Technology Architect | Aldenham Education Group | Riaydh,Saudi Arabia
+## Currently Systems and Technology Architect | Aldenham Education Group | Riaydh,Saudi Arabia
 ## Ex -Founding Engineer @ Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher | Funded by early investors of SpaceX ( yes, the same people who funded Elon :)) )
 ## Ex Project Lead - Startup Thiruvizha at Kameleon Technologies
 ## Graduated from Indian Institute Of Technology Madras(IIT MADRAS)
-🚀 Fullstack XR/ML/AI Engineer/Researcher | 🤖 Senior AI/ML Engineer | **Haptics Engineer** | 🌐 Tech Evangelist | 🌟 XR Innovator | Web 4.0 Advocate | Spatial Web
+🚀 **Fullstack XR/ML/AI Engineer/Researcher | International Schools Growth Expert (K12)| Senior AI/ML Engineer | Haptics Engineer| 🌐 Tech Evangelist | 🌟 XR Innovator | Web 4.0 Advocate | Spatial Web** 
 
 [![Gmail Badge](https://img.shields.io/badge/-alsala.connect@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alsala.connect@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alsala%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-sala-ahmed/ "Connect on LinkedIn")
@@ -13,7 +13,7 @@
 
 <a href="https://alsala-ahmed.com/"><img src="https://github.com/az7dev/az7dev/blob/main/7ADE1048-631B-47C8-9422-6AD42D4B7CFB.png" align="right" height="275" /></a>
 
-I am a pre-final year graduate at Indian Institute of technology at Madras, pursuing Bachelors in Civil Engineering, who is passionate about Creative technologies such as XR,geospatial,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. lately my focus has been on nerfs and gaussian splatting.
+I am an Engineering graduate from Indian Institute of technology at Madras (NIRF-1 , Number one university in India with an acceptance rate of 0.5%), Graduated with Bachelors in Civil Engineering, who is passionate about Building schools growth and previously worked with Creative technologies and I create AI tools from scratch, which leads to immediate automation workflows. I have trained and upskilled countless junior engineers and staffs within an organisation .My previous interests such as XR,geospatial,projection mapping and creating immersive realities :bar_chart:, Creative programming :snake:, and open source :octocat:. I love to learn and contribute in the intersection and fusion of top technical and managerial skills in an orgainisation and i cut through bureaucracy like a knife and drive radical change in organisations. 
 
 - For people Looking to hire me see my leetcode(Python + Javascript skills) in the Leetcode repo.[https://github.com/az7dev/leetcode-hackerank](url)
 - 📭 [Reach out](#hi-there-AlsalaAhmed-here) for help with creative technologies programming and algorithimic help in Webgpu as well as in libraries like three.js,react-three fiber,ar.js,WebXR and many more....
