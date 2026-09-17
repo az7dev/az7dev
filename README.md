@@ -1,8 +1,9 @@
-## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here 
-## Founding Engineer @ Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher
+## Say Hello👋🏼, [Alsala Ahmed](https://alsala-ahmed.com) here
+## Silicon Valley Engineer, Self-taught programmer and serial Entrepreneur.I was raised by a bunch of hackers, backed by some of worlds best visionary investors.
+## Systems and Technology Architect | Aldenham Education Group | Riaydh,Saudi Arabia
+## Ex -Founding Engineer @ Playhouse.ai🚀|Fullstack  ML/AI Engineer|XR Engineer|ML/AI Researcher | Funded by early investors of SpaceX ( yes, the same people who funded Elon :)) )
 ## Ex Project Lead - Startup Thiruvizha at Kameleon Technologies
-## Indian Institute Of Technology Madras(IIT MADRAS)
-## Building the Global Indian XR Corridor 
+## Graduated from Indian Institute Of Technology Madras(IIT MADRAS)
 🚀 Fullstack XR/ML/AI Engineer/Researcher | 🤖 Senior AI/ML Engineer | **Haptics Engineer** | 🌐 Tech Evangelist | 🌟 XR Innovator | Web 4.0 Advocate | Spatial Web
 
 [![Gmail Badge](https://img.shields.io/badge/-alsala.connect@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alsala.connect@gmail.com "Connect via Email")
